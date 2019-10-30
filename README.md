@@ -1,5 +1,7 @@
 # HART ISLAND GEOCODING
 
+### Note: All Analysis Conducted by New York City Council. This is a copy of original repository, found here: https://github.com/NewYorkCityCouncil/hart_island_geocoder
+
 ## Objective
 
 The Hart Island dataset is a dataset of individuals buried at Hart Island. For each deceased person, it lists the location where they passed away. The objective of this project is to geocode those locations, so we may be able to see where those who have passed away came from.
